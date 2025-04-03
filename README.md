@@ -21,7 +21,7 @@
 <br><br>
 <br><br>
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewtran1506&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="andrewtran1506" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewtran1506&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=donut" alt="andrewtran1506" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewtran1506&theme=neon&hide_border=false&include_all_commits=true&count_private=false" alt="andrewtran1506" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrewtran1506&theme=neon&hide_border=false" alt="andrewtran1506" /></p>
 
