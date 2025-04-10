@@ -43,8 +43,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </div>
 
-![snake gif](https://github.com/Kevinbui16/Kevinbui16/blob/output/github-snake-dark.svg)
-
 
 # 🌐 Social Links:
 <p align="left">
