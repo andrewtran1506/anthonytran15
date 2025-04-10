@@ -12,7 +12,7 @@
 
 - 👨🏼‍🎓 I'm studying **Business Analytics and Data Science at University of Wollongong**.
 
-- 💬 Ask me about **Data and Analytics**.
+- 💬 Ask me about **Data, Analytics and Statistics**.
 
 - 📫 How to reach me **toantran2005.work@gmail.com**
 
