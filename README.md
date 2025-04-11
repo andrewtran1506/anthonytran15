@@ -23,16 +23,16 @@
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonytran1506&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=donut" alt="anthonytran1506" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anthonytran1506&theme=neon&hide_border=false&include_all_commits=true&count_private=false" alt="anthonytran1506" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrewtran1506&theme=neon&hide_border=false" alt="andrewtran1506" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anthonytran1506&theme=neon&hide_border=false" alt="anthonytran1506" /></p>
 
 # 🚀 Featured Projects
 <a href="https://github.com/andrewtran1506/Amazon-Project">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=andrewtran1506&repo=Amazon-Project&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anthonytran1506&repo=Amazon-Project&theme=radical" />
 </a>   
 <a href="https://github.com/andrewtran1506/Customer-Churn-PwC">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=andrewtran1506&repo=Customer-Churn-PwC&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anthonytran1506&repo=Customer-Churn-PwC&theme=dark" />
 </a>
 
 # 💻 Tech Stack: 
