@@ -32,7 +32,11 @@
 </a>   
 <a href="https://github.com/andrewtran1506/Customer-Churn-PwC">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anthonytran1506&repo=Customer-Churn-PwC&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anthonytran1506&repo=Customer-Churn-PwC&theme=highcontrast" />
+</a>
+<a href="https://github.com/anthonytran1506/ReelShort-Subscription-Analysis-SQL">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anthonytran1506&repo=ReelShort-Subscription-Analysis-SQL&theme=cobalt" />
 </a>
 
 # 💻 Tech Stack: 
