@@ -1,6 +1,6 @@
 <img align="center" width="100%" height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnQzZHk3cWhqY2U5ZnU4ZGwwbTFwaGI3ZTByeThzY2pjY212ZzZ3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif">
 <h1 align="center">Hi 👋, I'm Toan (Anthony) Tran</h1>
-<h3 align="center">  A curious and driven Data Analyst from Vietnam , currently studying in Australia..</h3>
+<h3 align="center">  A curious and driven Data Analyst from Vietnam, currently studying in Australia..</h3>
 
 
 
